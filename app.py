@@ -1,0 +1,1 @@
+print("Scout App v1.0")
